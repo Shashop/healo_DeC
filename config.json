@@ -1,0 +1,13 @@
+{
+"host": "https://misskey.design",
+	"i": "j1zJuCQhRZSokHjZaN8IceLQJJowdDIM",
+	"master": "BurningPOTUS",
+	"notingEnabled": "ランダムにノートを投稿する機能を無効にする場合は false を入れる",
+	"keywordEnabled": "false",
+	"chartEnabled": "チャート機能を無効化する場合は false を入れてください",
+	"reversiEnabled": "true",
+	"serverMonitoring": "false",
+	"mecab": "MeCab のインストールパス (ソースからインストールした場合、大体は /usr/local/bin/mecab)",
+	"mecabDic": "MeCab の辞書ファイルパス (オプション)",
+	"memoryDir": "."
+}
